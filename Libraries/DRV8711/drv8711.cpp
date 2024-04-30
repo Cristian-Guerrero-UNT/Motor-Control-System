@@ -1,3 +1,7 @@
+/*
+Original library at: https://github.com/olddogsleeping/BOOST-DRV8711/tree/master
+*/
+
 #if defined(ARDUINO) && ARDUINO >= 100
   #include "Arduino.h"
 #else

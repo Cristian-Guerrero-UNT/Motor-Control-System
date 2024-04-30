@@ -39,6 +39,10 @@
  *
  ******************************************************************************/
 
+/*
+Code downloaded from https://www.ti.com/tool/BOOST-DRV8711
+*/
+
 #ifndef REGISTERS_H_
 #define REGISTERS_H_
 

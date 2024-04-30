@@ -21,8 +21,8 @@
 #include "src\button_input.h"
 
 // Pin definitions
-const byte ResetPin = 48;
-const byte SleepPin = 49;
+const byte ResetPin = 49;
+const byte SleepPin = 53;
 const byte SM1_ChipSelectPin = 47;
 const byte SM2_ChipSelectPin = 46;
 const byte ACT_ChipSelectPin = 40;

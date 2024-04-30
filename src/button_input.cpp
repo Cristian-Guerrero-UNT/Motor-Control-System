@@ -14,12 +14,12 @@ SCK - D52
 // User Input Buttons
 const byte EMERGENCY_BUTTON = 21;
 const byte RESET_ALL_MOTORS_BUTTON = 2;
-const byte SM1_CW_BUTTON = 62;
-const byte SM1_CCW_BUTTON = 63;
-const byte SM2_CW_BUTTON = 64;
-const byte SM2_CCW_BUTTON = 65;
-const byte ACT_UP_BUTTON = 66;
-const byte ACT_DOWN_BUTTON = 67;
+const byte SM1_CW_BUTTON = 56;
+const byte SM1_CCW_BUTTON = 57;
+const byte SM2_CW_BUTTON = 58;
+const byte SM2_CCW_BUTTON = 59;
+const byte ACT_UP_BUTTON = 60;
+const byte ACT_DOWN_BUTTON = 61;
 // DRV8711 specific Pins
 const byte SM1_DirectionPin = 45;
 const byte SM1_StepPin = 11;
@@ -28,10 +28,10 @@ const byte SM2_StepPin = 12;
 const byte ACT_AIN1 = 41;
 const byte ACT_AIN2 = 39;
 // Limit Switches
-const byte SM1_TOP_LIMIT_SWITCH = 43;
-const byte SM1_BOTTOM_LIMIT_SWITCH = 10;
-const byte SM2_TOP_LIMIT_SWITCH = 13;
-const byte SM2_BOTTOM_LIMIT_SWITCH = 42;
+const byte SM1_TOP_LIMIT_SWITCH = 3;
+const byte SM1_BOTTOM_LIMIT_SWITCH = 4;
+const byte SM2_TOP_LIMIT_SWITCH = 5;
+const byte SM2_BOTTOM_LIMIT_SWITCH = 6;
 // Fault Pins
 const byte SM1_FaultPin = 20;
 const byte SM2_FaultPin = 19;

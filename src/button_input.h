@@ -7,7 +7,6 @@ This has caused issues uploading sketches in the past.
 #define button_input_h
 
 #include <Arduino.h>
-// #include <PinChangeInterrupt.h>
 #include <TimerOne.h>
 
 // Function declarations

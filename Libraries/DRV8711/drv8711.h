@@ -1,3 +1,7 @@
+/*
+Original library at: https://github.com/olddogsleeping/BOOST-DRV8711/tree/master
+*/
+
 #ifndef drv8711_h
 #define drv8711_h
 
