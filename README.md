@@ -1,7 +1,7 @@
 # TWAS-Motor-Control
 Code needed to operate three Texas Instruments DRV8711 for two stepper motors and one actuator. Files will be separated into the 'Libraries', 'src', and a single sketch file intended for use with the Arduino IDE.
 
-Note the 'Libraries' directory needs to be copied into the 'libraries' folder being used by the Arduino IDE.
+Note the 'Libraries' directory needs to be copied into the 'libraries' folder being used by the Arduino IDE. On Windows, the default location is in Documents -> Arduino -> libraries. 
 
 # Future Implementations
 The following are a list of implementations that would be great additions in the future. 
